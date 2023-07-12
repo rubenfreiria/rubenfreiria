@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Ruben.<br>I'm a web developer.<br>I like to learn and expand my knowledge with new technologies.
+Hi, I'm Ruben, web developer.<br>I like to learn and expand my knowledge with new technologies.
 
 
 ## 🌐 Socials:
